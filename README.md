@@ -15,6 +15,7 @@ The file be diassembled to standard output.
 
 ## Misc
 
-- Last Updated: Circa 2009
+- Initial Release: 2006 
+- Last Update: 2009-05
 - Language: Perl
 - OS: Any
